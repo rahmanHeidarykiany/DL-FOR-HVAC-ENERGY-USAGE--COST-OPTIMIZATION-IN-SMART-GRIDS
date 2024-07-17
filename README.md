@@ -1,5 +1,5 @@
 # DEEP-MACHINE-LEARNING-ALGORITHMS-FOR-HVAC-ENERGY-USAGE-AND-COST-OPTIMIZATION-IN-SMART-GRIDS
-PhD-projects
+PhD-projects DEEP MACHINE LEARNING ALGORITHMS FOR HVAC ENERGY USAGE AND COST OPTIMIZATION IN SMART GRIDS)
 
 
 This dissertation investigates the application of advanced machine learning (ML) and optimization methods to enhance the efficiency and cost-effectiveness of heating, ventilation, and air conditioning (HVAC) systems in smart homes. The research is structured into three main chapters, each addressing different aspects of energy management through innovative technologies and strategies.
